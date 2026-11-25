@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+data/
+runs/
+work/
+frames/
+downloads/
+predictions/
+cache/
+*.tif
+*.tiff
+*.npz
+*.pkl
+!models/set_ranker.pkl
+!models/final_ranker.pkl
